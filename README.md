@@ -45,7 +45,7 @@ Twitter handle: [0x4143](https://twitter.com/0x4143)
 * Red Team Development and Operations - https://redteam.guide/
 * Cybersecurity Attacks - Red Team Strategies - hhttps://www.packtpub.com/product/cybersecurity-attacks-red-team-strategies/9781838828868
 * Adversarial Tradecraft in Cybersecurity - https://www.packtpub.com/product/adversarial-tradecraft-in-cybersecurity/9781801076203
-
+* Purple Team Strategies - https://www.packtpub.com/product/purple-team-strategies/9781801074292?_ga=2.213212308.1414194808.1658233696-155052434.1658233696
 
 
 # Conferences:
