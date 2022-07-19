@@ -59,6 +59,7 @@ Twitter handle: [0x4143](https://twitter.com/0x4143)
 * Purple Teaming at GitLab - https://about.gitlab.com/handbook/engineering/security/threat-management/red-team/purple-teaming/
 * The Difference Between Red, Blue, and Purple Teams - https://danielmiessler.com/study/red-blue-purple-teams/
 * 11 Strategies of a World-Class Cybersecurity Operations Center - https://www.mitre.org/sites/default/files/publications/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf
+* Improve your Threat Hunt with Adversary Emulation - https://deepsec.net/docs/Slides/2020/Improve_Threat_Hunting_with_Adversary_Emulation_Thomas_V_Fischer.pdf
 * The DFIR Report - https://thedfirreport.com/
 * HackTricks - https://book.hacktricks.xyz/
 
