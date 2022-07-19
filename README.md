@@ -108,5 +108,5 @@ Twitter handle: [0x4143](https://twitter.com/0x4143)
 * Purple Teaming Explained - https://www.youtube.com/watch?v=6s-G7u0w-wc
 * Look at me, i'm the Adversary Now: Intro to Adversary Emulation - https://www.youtube.com/watch?v=vnr0kijaK60
 * Adversary Emulation (Playlist) - https://www.youtube.com/playlist?list=PLfgStsuvpUpq4-PpsPnWBxVZAEAFoqzXJ
-
+* ATT&CKing the Status Quo: Improving Threat Intel and Cyber Defense with MITRE ATT&CK - https://www.youtube.com/watch?v=p7Hyd7d9k-c
 
